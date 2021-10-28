@@ -1,0 +1,80 @@
+# Os 10 Vs do Big Data
+O big data vai além do volume, variedade e velocidade apenas. Você precisa conhecer essas 10 características e propriedades do big data para se preparar para os desafios e vantagens das iniciativas de big data.
+
+• Por George Firican
+
+• 8 de fevereiro de 2017
+
+O termo big data começou a aparecer com moderação no início da década de 1990, e sua prevalência e importância aumentaram exponencialmente com o passar dos anos. Hoje em dia, o big data costuma ser visto como parte integrante da estratégia de dados de uma empresa.
+
+O big data tem características e propriedades específicas que podem ajudá-lo a entender os desafios e as vantagens das iniciativas de big data.
+
+Você pode ter ouvido falar dos três Vs do big data, mas acredito que há sete características adicionais importantes que você precisa conhecer. Convenientemente, cada uma dessas propriedades começa com v também, então vamos discutir os 10 Vs do big data.
+
+# 1: Volume
+O volume é provavelmente a característica mais conhecida do big data; isso não é surpresa, considerando que mais de 90% de todos os dados atuais foram criados nos últimos dois anos. A quantidade atual de dados pode ser bastante impressionante. aqui estão alguns exemplos:
+
+- 300 horas de vídeo são enviadas ao YouTube a cada minuto. (Links para um site externo.)
+
+- Estima-se que 1,1 trilhão de fotos foram tiradas em 2016, e esse número deve aumentar 9 por cento em 2017 (Links para um site externo.) . Como a mesma foto geralmente tem várias instâncias armazenadas em diferentes dispositivos, serviços de compartilhamento de fotos ou documentos, bem como serviços de mídia social, o número total de fotos armazenadas também deve crescer de 3,9 trilhões em 2016 para 4,7 trilhões em 2017.
+
+- Em 2016, o tráfego móvel global (Links para um site externo.) estimado foi de 6,2 exabytes por mês (Links para um site externo.) . Isso é 6,2 bilhões de gigabytes.
+
+# 2: Velocidade
+Velocidade se refere à velocidade na qual os dados estão sendo gerados, produzidos, criados ou atualizados.
+
+Claro, parece impressionante que o data warehouse do Facebook armazene mais de 300 petabytes de dados (Links para um site externo.) , mas a velocidade na qual os novos dados são criados deve ser levada em consideração. O Facebook alega 600 terabytes de dados recebidos por dia.
+
+O Google sozinho processa em média mais de " 40.000 consultas de pesquisa a cada segundo (Links para um site externo.) ", o que se traduz em mais de 3,5 bilhões de pesquisas por dia.
+
+# 3: Variedade
+Quando se trata de big data, não precisamos apenas lidar com dados estruturados, mas também com dados semiestruturados e principalmente não estruturados. Como você pode deduzir dos exemplos acima, a maioria dos big data parece não ser estruturada, mas além de áudio, imagem, arquivos de vídeo, atualizações de mídia social e outros formatos de texto, também existem arquivos de log, dados de clique, dados de máquina e sensor, etc.
+
+# 4: Variabilidade
+A variabilidade no contexto de big data se refere a algumas coisas diferentes. Um é o número de inconsistências nos dados. Eles precisam ser encontrados por métodos de detecção de anomalias e valores discrepantes para que qualquer análise significativa ocorra.
+
+Big data também é variável devido à grande variedade de dimensões de dados resultantes de vários tipos e fontes de dados díspares. A variabilidade também pode se referir à velocidade inconsistente na qual o big data é carregado em seu banco de dados.
+
+# 5: Veracidade
+Essa é uma das características infelizes do big data. À medida que qualquer uma ou todas as propriedades acima aumentam, a veracidade (confiança ou confiança nos dados) diminui. Isso é semelhante, mas não igual a, validade ou volatilidade (veja abaixo). A veracidade se refere mais à procedência ou confiabilidade da fonte de dados, seu contexto e quão significativo é para a análise baseada nela.
+
+Por exemplo, considere um conjunto de dados estatísticos sobre o que as pessoas compram em restaurantes e os preços desses itens nos últimos cinco anos. Você pode perguntar: Quem criou a fonte? Que metodologia eles seguiram na coleta de dados? Foram incluídos apenas algumas culinárias ou certos tipos de restaurantes? Os criadores dos dados resumiram as informações? A informação foi editada ou modificada por outra pessoa?
+
+As respostas a essas perguntas são necessárias para determinar a veracidade dessas informações. O conhecimento da veracidade dos dados, por sua vez, nos ajuda a entender melhor os riscos associados à análise e às decisões de negócios com base neste conjunto de dados específico.
+
+# 6: Validade
+Semelhante à veracidade, a validade se refere a quão precisos e corretos os dados são para o uso pretendido. De acordo com a Forbes, cerca de 60 por cento (Links para um site externo.) do tempo de um cientista de dados é gasto limpando seus dados antes de ser capaz de fazer qualquer análise. O benefício da análise de big data é tão bom quanto seus dados subjacentes, portanto, você precisa adotar boas práticas de governança de dados para garantir uma qualidade de dados consistente, definições comuns e metadados.
+
+Nº 7: Vulnerabilidade
+Big data traz novas preocupações de segurança. Afinal, uma violação de dados com big data é uma grande violação. Alguém se lembra do infame hack do AshleyMadison em 2015 (Links para um site externo.) ?
+
+Infelizmente, houve muitas violações de big data. Outro exemplo, conforme relatado pelo CRN (Links para um site externo.) : em maio de 2016 "um hacker chamado Peace postou dados na dark web para vender, que supostamente incluíam informações sobre 167 milhões de contas do LinkedIn e ... 360 milhões de e-mails e senhas para usuários do MySpace".
+
+Informações sobre muitos outros podem ser encontradas em Information is Beautiful (Links para um site externo.) .
+
+# 8: Volatilidade
+Quantos anos seus dados precisam ter para que sejam considerados irrelevantes, históricos ou inúteis? Por quanto tempo os dados precisam ser mantidos?
+
+Antes do big data, as organizações tendiam a armazenar dados indefinidamente - alguns terabytes de dados podem não gerar grandes despesas de armazenamento; ele pode até ser mantido no banco de dados ativo sem causar problemas de desempenho. Em uma configuração de dados clássica, pode nem mesmo haver políticas de arquivamento de dados em vigor.
+
+Devido à velocidade e ao volume do big data, entretanto, sua volatilidade deve ser considerada com cuidado. Agora você precisa estabelecer regras para a atualidade e disponibilidade dos dados, bem como garantir a recuperação rápida das informações quando necessário. Certifique-se de que eles estejam claramente vinculados às suas necessidades e processos de negócios - com big data, os custos e a complexidade de um processo de armazenamento e recuperação são aumentados.
+
+Nº 9: Visualização
+Outra característica do big data é o quão desafiador é a visualização.
+
+As ferramentas atuais de visualização de big data enfrentam desafios técnicos devido às limitações da tecnologia in-memory e baixa escalabilidade, funcionalidade e tempo de resposta. Você não pode confiar em gráficos tradicionais ao tentar plotar um bilhão de pontos de dados, então você precisa de diferentes maneiras de representar os dados, como agrupamento de dados ou mapas de árvores, raios de sol, coordenadas paralelas, diagramas de rede circulares ou árvores cônicas.
+
+Combine isso com a infinidade de variáveis ​​resultantes da variedade e velocidade do big data e os relacionamentos complexos entre eles, e você verá que desenvolver uma visualização significativa não é fácil.
+
+# 10: Valor
+Por último, mas sem dúvida o mais importante de tudo, é o valor. As outras características do big data não fazem sentido se você não derivar valor comercial dos dados.
+
+Um valor substancial pode ser encontrado em big data, incluindo entender melhor seus clientes, direcioná-los adequadamente, otimizar processos e melhorar o desempenho da máquina ou do negócio. Você precisa entender o potencial, junto com as características mais desafiadoras, antes de embarcar em uma estratégia de big data.
+
+Para Leitura Adicional:
+
+• Gastos com Big Data e Analytics projetados para disparar.
+
+• Adaptando a governança de dados ao big data.
+
+• Você ainda precisa de um modelo! Modelagem de dados para Big Data e NoSQL

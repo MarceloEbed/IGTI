@@ -1,0 +1,91 @@
+1 - “No nível da equipe, o foco muda para o fluxo de trabalho em vez de apenas completar tarefas. 
+Não se trata mais de fazer as coisas; em vez disso, o objetivo torna-se fazer as coisas fluírem. 
+Ainda assim, pode haver heroísmo gerencial para fazer que os fluxos de valor operem de ponta a ponta”. 
+ 
+Estamos nos referindo, aqui, a uma prática cultural de qual nível?
+
+2 - O Kanban Maturity Model (KMM) é um roteiro para melhorar uma organização através da evolução gerenciada. 
+Os três pilares do KMM são:
+
+3 - Considere os seguintes princípios: 
+-> Comece com o que você faz agora: entendendo os processos atuais como são realmente praticados e respeitando as funções, 
+responsabilidades e cargos existentes. 
+
+-> Concorde em buscar melhorias através de mudanças evolutivas. 
+
+-> Incentive atos de liderança em todos os níveis — desde cada colaborador até a diretoria. 
+
+Esses princípios são chamados de:
+
+4 - Aqui, os indivíduos estão focados em completar suas próprias tarefas — "fazer as coisas" — 
+uma abordagem focada em tempo e recursos para gerenciar a carga de trabalho e completar tarefas. 
+Se houve alguma intervenção Kanban, vemos o uso de quadro Kanban individuais.  
+Aqui, estamos falando de qual nível? 
+
+5 - Considere o seguinte nível.  
+“A organização agora tem processos consistentes, uso de políticas e quadro de decisão, bem como resultados desejados. 
+O desenho do produto, a qualidade e a entrega de serviços estão dentro das expectativas dos clientes e dos níveis de tolerância. 
+A organização é considerada confiável. Seus clientes estão satisfeitos. 
+Apesar da considerável instrumentação e disponibilidade de métricas, a tomada de decisões permanece em sua maioria qualitativa 
+ou emocionalmente orientada”. Esse nível pode ser definido como?
+
+6 - Sobre o Kanban, é INCORRETO dizer que: 
+Grupo de escolhas da pergunta
+
+Ele usa a lente de serviços para promover o aumento de maturidade nas organizações.
+
+Ele é baseado em mudanças evolucionárias.
+
+Ele é um método de gestão de mudanças.
+
+Ele é uma alternativa ao Scrum.
+
+7 - O Kanban é definido pelo seu criador, David Anderson, como um mecanismo para definir, gerenciar e melhorar serviços que entregam trabalho de conhecimento. Ele é usado em áreas diversas de serviços profissionais, por exemplo: RH, marketing, contabilidade, desenvolvimento e manutenção de software, infraestrutura de TI, montagem de produtos digitais ou até mesmo design de produtos físicos. 
+
+ Podemos definir o Kanban como um: 
+
+Grupo de escolhas da pergunta
+
+Metodologia.
+
+Framework.
+
+Método.
+
+Processo.
+
+8 - O KMM codifica mais de 150 práticas Kanban, organizadas ao longo dos 7 níveis de maturidade. Essas práticas foram coletadas da experiência de mercado e podem ser usadas para agilistas e coaches para a promoção de melhoria contínua. 
+
+Sobre essas práticas, podemos dizer que: 
+
+Grupo de escolhas da pergunta
+
+A Visualização do Trabalho de um Indivíduo é uma prática sugerida para o nível 1.
+
+A Modelagem de um fluxo de trabalho é uma prática sugerida para o nível 3.
+
+O uso de Limites de WIP constantes no fluxo de trabalho (CONWIP) é uma prática proposta para o nível 1.
+
+A Visualização do trabalho de um grupo de indivíduos é uma prática proposta para o nível 2.
+
+9 - “Estamos buscando um desenvolvedor Javascript Ninja para trabalhar em um ambiente altamente dinâmico”. Essa frase reflete uma organização que esteja em nível? 
+Grupo de escolhas da pergunta
+
+2.
+
+1.
+
+0.
+
+3.
+
+10 - O KMM pode ser definido como:
+Grupo de escolhas da pergunta
+
+Um modelo de maturidade organizacional baseado em práticas Kanban.
+
+Um modelo de maturidade de times.
+
+Um modelo de maturidade de práticas Kanban.
+
+Um modelo de maturidade de serviços.

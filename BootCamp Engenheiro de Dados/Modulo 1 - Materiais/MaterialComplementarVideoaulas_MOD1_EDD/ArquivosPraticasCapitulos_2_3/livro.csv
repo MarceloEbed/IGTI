@@ -1,0 +1,19 @@
+INSERT INTO `livraria`.`editora` (`nome_editora`, `telefone`, `codigo_cidade`) VALUES (13,'Record', '124578256', '3550308');
+
+INSERT INTO `livraria`.`livro`(`id_livro`,`titulo_livro`,`numero_edicao`,`ano_edicao`,`codigo_editora`,`idioma`,`idgenero`,`preco`)
+VALUES();
+
+
+idlivro,titulo,preco,estoque,ideditora,idgenero
+1,"Pelas Ruas de Calcutá",36.1,5,1,NULL
+2,"Devoted - Devoção",27.2,4,2,NULL
+3,"Rápido e Devagar - Duas Formas de Pensar",43.9,8,3,NULL
+4,"Xô, Bactéria! Tire Suas Dúvidas Com Dr. Bactéria",32.7,6,4,NULL
+5,"P.s. - Eu Te Amo ",23.5,10,5,NULL
+6,"O Que Esperar Quando Você Está Esperando",37.8,20,6,NULL
+7,"As Melhores Frases Em Veja",23.9,0,7,NULL
+8,"Bichos Monstruosos",24.9,12,6,NULL
+9,"Casas Mal Assombradas",27.9,0,6,NULL
+10,Colapso,42.5,1,11,NULL
+
+10,"Colapso","12ª edição",2005,13,"Português",92.9);

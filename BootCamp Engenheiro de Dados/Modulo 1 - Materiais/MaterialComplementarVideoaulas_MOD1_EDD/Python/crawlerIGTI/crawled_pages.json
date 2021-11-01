@@ -1,0 +1,71 @@
+[{
+    "categoria": "HOME",
+    "titulo_pagina": " IGTI Blog",
+    "url_pagina": "https://www.igti.com.br:443/blog/"
+},
+{
+    "categoria": " DATA SCIENCE",
+    "titulo_pagina": "DATA SCIENCE Archives - IGTI Blog",
+    "url_pagina": "https://www.igti.com.br/blog/category/data-science/"
+},
+{
+    "categoria": " BLOCKCHAIN",
+    "titulo_pagina": "BLOCKCHAIN Archives - IGTI Blog",
+    "url_pagina": "https://www.igti.com.br/blog/category/blockchain/"
+},
+{
+    "categoria": " AGILE",
+    "titulo_pagina": "AGILE Archives - IGTI Blog",
+    "url_pagina": "https://www.igti.com.br/blog/category/agile/"
+},
+{
+    "categoria": " CLOUD COMPUTING",
+    "titulo_pagina": "CLOUD COMPUTING Archives - IGTI Blog",
+    "url_pagina": "https://www.igti.com.br/blog/category/cloud-computing/"
+},
+{
+    "categoria": " MARKETING DIGITAL",
+    "titulo_pagina": "MARKETING DIGITAL Archives - IGTI Blog",
+    "url_pagina": "https://www.igti.com.br/blog/category/marketing-digital/"
+},
+{
+    "categoria": " STARTUPS E INOVAÇÃO",
+    "titulo_pagina": "STARTUPS E INOVAÇÃO Archives - IGTI Blog",
+    "url_pagina": "https://www.igti.com.br/blog/category/startups-e-inovacao/"
+},
+{
+    "categoria": " DATA ANALYTICS",
+    "titulo_pagina": "DATA ANALYTICS Archives - IGTI Blog",
+    "url_pagina": "https://www.igti.com.br/blog/category/data-analytics/"
+},
+{
+    "categoria": " INTELIGÊNCIA ARTIFICIAL",
+    "titulo_pagina": "INTELIGÊNCIA ARTIFICIAL Archives - IGTI Blog",
+    "url_pagina": "https://www.igti.com.br/blog/category/inteligencia-artificial/"
+},
+{
+    "categoria": " DEVELOPMENT",
+    "titulo_pagina": "DEVELOPMENT Archives - IGTI Blog",
+    "url_pagina": "https://www.igti.com.br/blog/category/development/"
+},
+{
+    "categoria": " TECNOLOGIAS EMERGENTES",
+    "titulo_pagina": "TECNOLOGIAS EMERGENTES Archives - IGTI Blog",
+    "url_pagina": "https://www.igti.com.br/blog/category/tecnologias-emergentes/"
+},
+{
+    "categoria": " CIBERSEGURANÇA",
+    "titulo_pagina": "CIBERSEGURANÇA Archives - IGTI Blog",
+    "url_pagina": "https://www.igti.com.br/blog/category/ciberseguranca/"
+},
+{
+    "categoria": " TRANSFORMAÇÃO DIGITAL",
+    "titulo_pagina": "TRANSFORMAÇÃO DIGITAL Archives - IGTI Blog",
+    "url_pagina": "https://www.igti.com.br/blog/category/transformacao-digital/"
+},
+{
+    "categoria": " USER EXPERIENCE",
+    "titulo_pagina": "USER EXPERIENCE Archives - IGTI Blog",
+    "url_pagina": "https://www.igti.com.br/blog/category/user-experience/"
+},
+]
